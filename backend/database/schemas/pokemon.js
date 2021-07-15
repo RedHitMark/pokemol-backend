@@ -9,6 +9,7 @@ const PokemonSchema = new Mongoose.Schema({
     pokemonID: { type: Number, required: true },
     name: { type: String, required: true },
     description: { type: String, required: true },
+    avatar: { type: String, required: true },
     types: [{type: String}],
     stats: {
         hp: { type: Number, required: true },

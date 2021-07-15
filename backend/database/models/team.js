@@ -1,5 +1,6 @@
 const teamModel = require('../mongo').models.team;
 
+
 async function readAll(data) {
     return teamModel.find(data).lean().exec();
 }
