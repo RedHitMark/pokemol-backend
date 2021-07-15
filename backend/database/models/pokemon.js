@@ -5,7 +5,7 @@ async function readAll() {
     return pokemonModel.find({}, { '_id': false}).lean().exec();
 }
 async function readOneByPokemonId(pokemonId) {
-    return pokemonModel.findOne({id: {$eq: pokemonId}}, { '_id': false}).lean().exec();
+    return pokemonModel.findOne({pokemonID: {$eq: pokemonId}}, { '_id': false}).lean().exec();
 }
 
 async function readOneByMongoId(mongoId) {
