@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "60f0a18a83b62a2563dbf8ac",
+    "name": "SquadraA",
+    "submissionID": "AAABBBCCC",
+    "totalScore": 0,
+    "captures": []
+  },
+  {
+    "_id": "60f0a18a83b62a2563dbf8ad",
+    "name": "SquadraB",
+    "submissionID": "CCCDDDEEE",
+    "totalScore": 0,
+    "captures": []
+  },
+  {
+    "_id": "60f0a18a83b62a2563dbf8ae",
+    "name": "SquadraC",
+    "submissionID": "FFFGGGHHH",
+    "totalScore": 0,
+    "captures": []
+  }
+]

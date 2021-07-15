@@ -6,7 +6,7 @@ const Mongoose = require('mongoose');
  */
 const PokemonSchema = new Mongoose.Schema({
     _id: {type: String, required: true, default: () => { return Mongoose.Types.ObjectId()._id}},
-    id: { type: Number, required: true },
+    pokemonID: { type: Number, required: true },
     name: { type: String, required: true },
     description: { type: String, required: true },
     types: [{type: String}],

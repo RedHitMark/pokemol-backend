@@ -1,1 +1,2 @@
-mongoimport --db $MONGO_INITDB_DATABASE --collection pokemons --drop --type json --file /docker-entrypoint-initdb.d/dump.json --jsonArray
+mongoimport --db $MONGO_INITDB_DATABASE --collection pokemons --drop --type json --file /docker-entrypoint-initdb.d/pokemons.json --jsonArray
+mongoimport --db $MONGO_INITDB_DATABASE --collection teams --drop --type json --file /docker-entrypoint-initdb.d/teams.json --jsonArray
