@@ -1,0 +1,2636 @@
+[
+  {
+    "_id" : "60f0abedf11485a8dce14e7c",
+    "pokemonID" : 5,
+    "name" : "charmeleon",
+    "types" : [
+      "fire"
+    ],
+    "stats" : {
+      "hp" : 58,
+      "attack" : 64,
+      "defense" : 58,
+      "specialAttack" : 80,
+      "specialDefense" : 65,
+      "speed" : 80
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14e7d",
+    "pokemonID" : 17,
+    "name" : "pidgeotto",
+    "types" : [
+      "normal",
+      "flying"
+    ],
+    "stats" : {
+      "hp" : 63,
+      "attack" : 60,
+      "defense" : 55,
+      "specialAttack" : 50,
+      "specialDefense" : 50,
+      "speed" : 71
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/017.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14e7e",
+    "pokemonID" : 8,
+    "name" : "wartortle",
+    "types" : [
+      "water"
+    ],
+    "stats" : {
+      "hp" : 59,
+      "attack" : 63,
+      "defense" : 80,
+      "specialAttack" : 65,
+      "specialDefense" : 80,
+      "speed" : 58
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/008.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14e7f",
+    "pokemonID" : 19,
+    "name" : "rattata",
+    "types" : [
+      "normal"
+    ],
+    "stats" : {
+      "hp" : 30,
+      "attack" : 56,
+      "defense" : 35,
+      "specialAttack" : 25,
+      "specialDefense" : 35,
+      "speed" : 72
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/019.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14e80",
+    "pokemonID" : 18,
+    "name" : "pidgeot",
+    "types" : [
+      "normal",
+      "flying"
+    ],
+    "stats" : {
+      "hp" : 83,
+      "attack" : 80,
+      "defense" : 75,
+      "specialAttack" : 70,
+      "specialDefense" : 70,
+      "speed" : 101
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/018.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14e81",
+    "pokemonID" : 20,
+    "name" : "raticate",
+    "types" : [
+      "normal"
+    ],
+    "stats" : {
+      "hp" : 55,
+      "attack" : 81,
+      "defense" : 60,
+      "specialAttack" : 50,
+      "specialDefense" : 70,
+      "speed" : 97
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14e82",
+    "pokemonID" : 21,
+    "name" : "spearow",
+    "types" : [
+      "normal",
+      "flying"
+    ],
+    "stats" : {
+      "hp" : 40,
+      "attack" : 60,
+      "defense" : 30,
+      "specialAttack" : 31,
+      "specialDefense" : 31,
+      "speed" : 70
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/021.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14e83",
+    "pokemonID" : 22,
+    "name" : "fearow",
+    "types" : [
+      "normal",
+      "flying"
+    ],
+    "stats" : {
+      "hp" : 65,
+      "attack" : 90,
+      "defense" : 65,
+      "specialAttack" : 61,
+      "specialDefense" : 61,
+      "speed" : 100
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/022.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14e84",
+    "pokemonID" : 6,
+    "name" : "charizard",
+    "types" : [
+      "fire",
+      "flying"
+    ],
+    "stats" : {
+      "hp" : 78,
+      "attack" : 84,
+      "defense" : 78,
+      "specialAttack" : 109,
+      "specialDefense" : 85,
+      "speed" : 100
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14e85",
+    "pokemonID" : 23,
+    "name" : "ekans",
+    "types" : [
+      "poison"
+    ],
+    "stats" : {
+      "hp" : 35,
+      "attack" : 60,
+      "defense" : 44,
+      "specialAttack" : 40,
+      "specialDefense" : 54,
+      "speed" : 55
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/023.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14e86",
+    "pokemonID" : 12,
+    "name" : "butterfree",
+    "types" : [
+      "bug",
+      "flying"
+    ],
+    "stats" : {
+      "hp" : 60,
+      "attack" : 45,
+      "defense" : 50,
+      "specialAttack" : 90,
+      "specialDefense" : 80,
+      "speed" : 70
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14e87",
+    "pokemonID" : 2,
+    "name" : "ivysaur",
+    "types" : [
+      "grass",
+      "poison"
+    ],
+    "stats" : {
+      "hp" : 60,
+      "attack" : 62,
+      "defense" : 63,
+      "specialAttack" : 80,
+      "specialDefense" : 80,
+      "speed" : 60
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14e88",
+    "pokemonID" : 9,
+    "name" : "blastoise",
+    "types" : [
+      "water"
+    ],
+    "stats" : {
+      "hp" : 79,
+      "attack" : 83,
+      "defense" : 100,
+      "specialAttack" : 85,
+      "specialDefense" : 105,
+      "speed" : 78
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14e89",
+    "pokemonID" : 1,
+    "name" : "bulbasaur",
+    "types" : [
+      "grass",
+      "poison"
+    ],
+    "stats" : {
+      "hp" : 45,
+      "attack" : 49,
+      "defense" : 49,
+      "specialAttack" : 65,
+      "specialDefense" : 65,
+      "speed" : 45
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14e8a",
+    "pokemonID" : 7,
+    "name" : "squirtle",
+    "types" : [
+      "water"
+    ],
+    "stats" : {
+      "hp" : 44,
+      "attack" : 48,
+      "defense" : 65,
+      "specialAttack" : 50,
+      "specialDefense" : 64,
+      "speed" : 43
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14e8b",
+    "pokemonID" : 29,
+    "name" : "nidoran-female",
+    "types" : [
+      "poison"
+    ],
+    "stats" : {
+      "hp" : 55,
+      "attack" : 47,
+      "defense" : 52,
+      "specialAttack" : 40,
+      "specialDefense" : 40,
+      "speed" : 41
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/029.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14e8c",
+    "pokemonID" : 30,
+    "name" : "nidorina",
+    "types" : [
+      "poison"
+    ],
+    "stats" : {
+      "hp" : 70,
+      "attack" : 62,
+      "defense" : 67,
+      "specialAttack" : 55,
+      "specialDefense" : 55,
+      "speed" : 56
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/030.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14e8d",
+    "pokemonID" : 32,
+    "name" : "nidoran-male",
+    "types" : [
+      "poison"
+    ],
+    "stats" : {
+      "hp" : 46,
+      "attack" : 57,
+      "defense" : 40,
+      "specialAttack" : 40,
+      "specialDefense" : 40,
+      "speed" : 50
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/032.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14e8e",
+    "pokemonID" : 31,
+    "name" : "nidoqueen",
+    "types" : [
+      "poison",
+      "ground"
+    ],
+    "stats" : {
+      "hp" : 90,
+      "attack" : 92,
+      "defense" : 87,
+      "specialAttack" : 75,
+      "specialDefense" : 85,
+      "speed" : 76
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/031.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14e8f",
+    "pokemonID" : 33,
+    "name" : "nidorino",
+    "types" : [
+      "poison"
+    ],
+    "stats" : {
+      "hp" : 61,
+      "attack" : 72,
+      "defense" : 57,
+      "specialAttack" : 55,
+      "specialDefense" : 55,
+      "speed" : 65
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/033.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14e90",
+    "pokemonID" : 34,
+    "name" : "nidoking",
+    "types" : [
+      "poison",
+      "ground"
+    ],
+    "stats" : {
+      "hp" : 81,
+      "attack" : 102,
+      "defense" : 77,
+      "specialAttack" : 85,
+      "specialDefense" : 75,
+      "speed" : 85
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/034.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14e91",
+    "pokemonID" : 35,
+    "name" : "clefairy",
+    "types" : [
+      "fairy"
+    ],
+    "stats" : {
+      "hp" : 70,
+      "attack" : 45,
+      "defense" : 48,
+      "specialAttack" : 60,
+      "specialDefense" : 65,
+      "speed" : 35
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/035.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14e92",
+    "pokemonID" : 16,
+    "name" : "pidgey",
+    "types" : [
+      "normal",
+      "flying"
+    ],
+    "stats" : {
+      "hp" : 40,
+      "attack" : 45,
+      "defense" : 40,
+      "specialAttack" : 35,
+      "specialDefense" : 35,
+      "speed" : 56
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/016.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14e93",
+    "pokemonID" : 3,
+    "name" : "venusaur",
+    "types" : [
+      "grass",
+      "poison"
+    ],
+    "stats" : {
+      "hp" : 80,
+      "attack" : 82,
+      "defense" : 83,
+      "specialAttack" : 100,
+      "specialDefense" : 100,
+      "speed" : 80
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14e94",
+    "pokemonID" : 13,
+    "name" : "weedle",
+    "types" : [
+      "bug",
+      "poison"
+    ],
+    "stats" : {
+      "hp" : 40,
+      "attack" : 35,
+      "defense" : 30,
+      "specialAttack" : 20,
+      "specialDefense" : 20,
+      "speed" : 50
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/013.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14e95",
+    "pokemonID" : 10,
+    "name" : "caterpie",
+    "types" : [
+      "bug"
+    ],
+    "stats" : {
+      "hp" : 45,
+      "attack" : 30,
+      "defense" : 35,
+      "specialAttack" : 20,
+      "specialDefense" : 20,
+      "speed" : 45
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14e96",
+    "pokemonID" : 14,
+    "name" : "kakuna",
+    "types" : [
+      "bug",
+      "poison"
+    ],
+    "stats" : {
+      "hp" : 45,
+      "attack" : 25,
+      "defense" : 50,
+      "specialAttack" : 25,
+      "specialDefense" : 25,
+      "speed" : 35
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/014.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14e97",
+    "pokemonID" : 11,
+    "name" : "metapod",
+    "types" : [
+      "bug"
+    ],
+    "stats" : {
+      "hp" : 50,
+      "attack" : 20,
+      "defense" : 55,
+      "specialAttack" : 25,
+      "specialDefense" : 25,
+      "speed" : 30
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/011.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14e98",
+    "pokemonID" : 4,
+    "name" : "charmander",
+    "types" : [
+      "fire"
+    ],
+    "stats" : {
+      "hp" : 39,
+      "attack" : 52,
+      "defense" : 43,
+      "specialAttack" : 60,
+      "specialDefense" : 50,
+      "speed" : 65
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14e99",
+    "pokemonID" : 26,
+    "name" : "raichu",
+    "types" : [
+      "electric"
+    ],
+    "stats" : {
+      "hp" : 60,
+      "attack" : 90,
+      "defense" : 55,
+      "specialAttack" : 90,
+      "specialDefense" : 80,
+      "speed" : 110
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/026.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14e9a",
+    "pokemonID" : 15,
+    "name" : "beedrill",
+    "types" : [
+      "bug",
+      "poison"
+    ],
+    "stats" : {
+      "hp" : 65,
+      "attack" : 90,
+      "defense" : 40,
+      "specialAttack" : 45,
+      "specialDefense" : 80,
+      "speed" : 75
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/015.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14e9b",
+    "pokemonID" : 28,
+    "name" : "sandslash",
+    "types" : [
+      "ground"
+    ],
+    "stats" : {
+      "hp" : 75,
+      "attack" : 100,
+      "defense" : 110,
+      "specialAttack" : 45,
+      "specialDefense" : 55,
+      "speed" : 65
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/028.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14e9c",
+    "pokemonID" : 39,
+    "name" : "jigglypuff",
+    "types" : [
+      "normal",
+      "fairy"
+    ],
+    "stats" : {
+      "hp" : 115,
+      "attack" : 45,
+      "defense" : 20,
+      "specialAttack" : 45,
+      "specialDefense" : 25,
+      "speed" : 20
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/039.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14e9d",
+    "pokemonID" : 27,
+    "name" : "sandshrew",
+    "types" : [
+      "ground"
+    ],
+    "stats" : {
+      "hp" : 50,
+      "attack" : 75,
+      "defense" : 85,
+      "specialAttack" : 20,
+      "specialDefense" : 30,
+      "speed" : 40
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/027.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14e9e",
+    "pokemonID" : 24,
+    "name" : "arbok",
+    "types" : [
+      "poison"
+    ],
+    "stats" : {
+      "hp" : 60,
+      "attack" : 95,
+      "defense" : 69,
+      "specialAttack" : 65,
+      "specialDefense" : 79,
+      "speed" : 80
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/024.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14e9f",
+    "pokemonID" : 25,
+    "name" : "pikachu",
+    "types" : [
+      "electric"
+    ],
+    "stats" : {
+      "hp" : 35,
+      "attack" : 55,
+      "defense" : 40,
+      "specialAttack" : 50,
+      "specialDefense" : 50,
+      "speed" : 90
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ea0",
+    "pokemonID" : 36,
+    "name" : "clefable",
+    "types" : [
+      "fairy"
+    ],
+    "stats" : {
+      "hp" : 95,
+      "attack" : 70,
+      "defense" : 73,
+      "specialAttack" : 95,
+      "specialDefense" : 90,
+      "speed" : 60
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/036.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ea1",
+    "pokemonID" : 37,
+    "name" : "vulpix",
+    "types" : [
+      "fire"
+    ],
+    "stats" : {
+      "hp" : 38,
+      "attack" : 41,
+      "defense" : 40,
+      "specialAttack" : 50,
+      "specialDefense" : 65,
+      "speed" : 65
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/037.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ea2",
+    "pokemonID" : 38,
+    "name" : "ninetales",
+    "types" : [
+      "fire"
+    ],
+    "stats" : {
+      "hp" : 73,
+      "attack" : 76,
+      "defense" : 75,
+      "specialAttack" : 81,
+      "specialDefense" : 100,
+      "speed" : 100
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/038.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ea3",
+    "pokemonID" : 45,
+    "name" : "vileplume",
+    "types" : [
+      "grass",
+      "poison"
+    ],
+    "stats" : {
+      "hp" : 75,
+      "attack" : 80,
+      "defense" : 85,
+      "specialAttack" : 110,
+      "specialDefense" : 90,
+      "speed" : 50
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/045.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ea4",
+    "pokemonID" : 46,
+    "name" : "paras",
+    "types" : [
+      "bug",
+      "grass"
+    ],
+    "stats" : {
+      "hp" : 35,
+      "attack" : 70,
+      "defense" : 55,
+      "specialAttack" : 45,
+      "specialDefense" : 55,
+      "speed" : 25
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/046.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ea5",
+    "pokemonID" : 41,
+    "name" : "zubat",
+    "types" : [
+      "poison",
+      "flying"
+    ],
+    "stats" : {
+      "hp" : 40,
+      "attack" : 45,
+      "defense" : 35,
+      "specialAttack" : 30,
+      "specialDefense" : 40,
+      "speed" : 55
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/041.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ea6",
+    "pokemonID" : 44,
+    "name" : "gloom",
+    "types" : [
+      "grass",
+      "poison"
+    ],
+    "stats" : {
+      "hp" : 60,
+      "attack" : 65,
+      "defense" : 70,
+      "specialAttack" : 85,
+      "specialDefense" : 75,
+      "speed" : 40
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/044.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ea7",
+    "pokemonID" : 40,
+    "name" : "wigglytuff",
+    "types" : [
+      "normal",
+      "fairy"
+    ],
+    "stats" : {
+      "hp" : 140,
+      "attack" : 70,
+      "defense" : 45,
+      "specialAttack" : 85,
+      "specialDefense" : 50,
+      "speed" : 45
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/040.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ea8",
+    "pokemonID" : 42,
+    "name" : "golbat",
+    "types" : [
+      "poison",
+      "flying"
+    ],
+    "stats" : {
+      "hp" : 75,
+      "attack" : 80,
+      "defense" : 70,
+      "specialAttack" : 65,
+      "specialDefense" : 75,
+      "speed" : 90
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/042.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ea9",
+    "pokemonID" : 47,
+    "name" : "parasect",
+    "types" : [
+      "bug",
+      "grass"
+    ],
+    "stats" : {
+      "hp" : 60,
+      "attack" : 95,
+      "defense" : 80,
+      "specialAttack" : 60,
+      "specialDefense" : 80,
+      "speed" : 30
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/047.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14eaa",
+    "pokemonID" : 43,
+    "name" : "oddish",
+    "types" : [
+      "grass",
+      "poison"
+    ],
+    "stats" : {
+      "hp" : 45,
+      "attack" : 50,
+      "defense" : 55,
+      "specialAttack" : 75,
+      "specialDefense" : 65,
+      "speed" : 30
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/043.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14eab",
+    "pokemonID" : 53,
+    "name" : "persian",
+    "types" : [
+      "normal"
+    ],
+    "stats" : {
+      "hp" : 65,
+      "attack" : 70,
+      "defense" : 60,
+      "specialAttack" : 65,
+      "specialDefense" : 65,
+      "speed" : 115
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/053.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14eac",
+    "pokemonID" : 48,
+    "name" : "venonat",
+    "types" : [
+      "bug",
+      "poison"
+    ],
+    "stats" : {
+      "hp" : 60,
+      "attack" : 55,
+      "defense" : 50,
+      "specialAttack" : 40,
+      "specialDefense" : 55,
+      "speed" : 45
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/048.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ead",
+    "pokemonID" : 49,
+    "name" : "venomoth",
+    "types" : [
+      "bug",
+      "poison"
+    ],
+    "stats" : {
+      "hp" : 70,
+      "attack" : 65,
+      "defense" : 60,
+      "specialAttack" : 90,
+      "specialDefense" : 75,
+      "speed" : 90
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/049.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14eae",
+    "pokemonID" : 50,
+    "name" : "diglett",
+    "types" : [
+      "ground"
+    ],
+    "stats" : {
+      "hp" : 10,
+      "attack" : 55,
+      "defense" : 25,
+      "specialAttack" : 35,
+      "specialDefense" : 45,
+      "speed" : 95
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/050.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14eaf",
+    "pokemonID" : 51,
+    "name" : "dugtrio",
+    "types" : [
+      "ground"
+    ],
+    "stats" : {
+      "hp" : 35,
+      "attack" : 100,
+      "defense" : 50,
+      "specialAttack" : 50,
+      "specialDefense" : 70,
+      "speed" : 120
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/051.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14eb0",
+    "pokemonID" : 55,
+    "name" : "golduck",
+    "types" : [
+      "water"
+    ],
+    "stats" : {
+      "hp" : 80,
+      "attack" : 82,
+      "defense" : 78,
+      "specialAttack" : 95,
+      "specialDefense" : 80,
+      "speed" : 85
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/055.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14eb1",
+    "pokemonID" : 58,
+    "name" : "growlithe",
+    "types" : [
+      "fire"
+    ],
+    "stats" : {
+      "hp" : 55,
+      "attack" : 70,
+      "defense" : 45,
+      "specialAttack" : 70,
+      "specialDefense" : 50,
+      "speed" : 60
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/058.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14eb2",
+    "pokemonID" : 57,
+    "name" : "primeape",
+    "types" : [
+      "fighting"
+    ],
+    "stats" : {
+      "hp" : 65,
+      "attack" : 105,
+      "defense" : 60,
+      "specialAttack" : 60,
+      "specialDefense" : 70,
+      "speed" : 95
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/057.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14eb3",
+    "pokemonID" : 52,
+    "name" : "meowth",
+    "types" : [
+      "normal"
+    ],
+    "stats" : {
+      "hp" : 40,
+      "attack" : 45,
+      "defense" : 35,
+      "specialAttack" : 40,
+      "specialDefense" : 40,
+      "speed" : 90
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/052.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14eb4",
+    "pokemonID" : 59,
+    "name" : "arcanine",
+    "types" : [
+      "fire"
+    ],
+    "stats" : {
+      "hp" : 90,
+      "attack" : 110,
+      "defense" : 80,
+      "specialAttack" : 100,
+      "specialDefense" : 80,
+      "speed" : 95
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/059.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14eb5",
+    "pokemonID" : 56,
+    "name" : "mankey",
+    "types" : [
+      "fighting"
+    ],
+    "stats" : {
+      "hp" : 40,
+      "attack" : 80,
+      "defense" : 35,
+      "specialAttack" : 35,
+      "specialDefense" : 45,
+      "speed" : 70
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/056.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14eb6",
+    "pokemonID" : 60,
+    "name" : "poliwag",
+    "types" : [
+      "water"
+    ],
+    "stats" : {
+      "hp" : 40,
+      "attack" : 50,
+      "defense" : 40,
+      "specialAttack" : 40,
+      "specialDefense" : 40,
+      "speed" : 90
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/060.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14eb7",
+    "pokemonID" : 64,
+    "name" : "kadabra",
+    "types" : [
+      "psychic"
+    ],
+    "stats" : {
+      "hp" : 40,
+      "attack" : 35,
+      "defense" : 30,
+      "specialAttack" : 120,
+      "specialDefense" : 70,
+      "speed" : 105
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/064.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14eb8",
+    "pokemonID" : 54,
+    "name" : "psyduck",
+    "types" : [
+      "water"
+    ],
+    "stats" : {
+      "hp" : 50,
+      "attack" : 52,
+      "defense" : 48,
+      "specialAttack" : 65,
+      "specialDefense" : 50,
+      "speed" : 55
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/054.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14eb9",
+    "pokemonID" : 61,
+    "name" : "poliwhirl",
+    "types" : [
+      "water"
+    ],
+    "stats" : {
+      "hp" : 65,
+      "attack" : 65,
+      "defense" : 65,
+      "specialAttack" : 50,
+      "specialDefense" : 50,
+      "speed" : 90
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/061.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14eba",
+    "pokemonID" : 62,
+    "name" : "poliwrath",
+    "types" : [
+      "water",
+      "fighting"
+    ],
+    "stats" : {
+      "hp" : 90,
+      "attack" : 95,
+      "defense" : 95,
+      "specialAttack" : 70,
+      "specialDefense" : 90,
+      "speed" : 70
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/062.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ebb",
+    "pokemonID" : 67,
+    "name" : "machoke",
+    "types" : [
+      "fighting"
+    ],
+    "stats" : {
+      "hp" : 80,
+      "attack" : 100,
+      "defense" : 70,
+      "specialAttack" : 50,
+      "specialDefense" : 60,
+      "speed" : 45
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/067.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ebc",
+    "pokemonID" : 63,
+    "name" : "abra",
+    "types" : [
+      "psychic"
+    ],
+    "stats" : {
+      "hp" : 25,
+      "attack" : 20,
+      "defense" : 15,
+      "specialAttack" : 105,
+      "specialDefense" : 55,
+      "speed" : 90
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/063.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ebd",
+    "pokemonID" : 69,
+    "name" : "bellsprout",
+    "types" : [
+      "grass",
+      "poison"
+    ],
+    "stats" : {
+      "hp" : 50,
+      "attack" : 75,
+      "defense" : 35,
+      "specialAttack" : 70,
+      "specialDefense" : 30,
+      "speed" : 40
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/069.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ebe",
+    "pokemonID" : 66,
+    "name" : "machop",
+    "types" : [
+      "fighting"
+    ],
+    "stats" : {
+      "hp" : 70,
+      "attack" : 80,
+      "defense" : 50,
+      "specialAttack" : 35,
+      "specialDefense" : 35,
+      "speed" : 35
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/066.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ebf",
+    "pokemonID" : 65,
+    "name" : "alakazam",
+    "types" : [
+      "psychic"
+    ],
+    "stats" : {
+      "hp" : 55,
+      "attack" : 50,
+      "defense" : 45,
+      "specialAttack" : 135,
+      "specialDefense" : 95,
+      "speed" : 120
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/065.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ec0",
+    "pokemonID" : 68,
+    "name" : "machamp",
+    "types" : [
+      "fighting"
+    ],
+    "stats" : {
+      "hp" : 90,
+      "attack" : 130,
+      "defense" : 80,
+      "specialAttack" : 65,
+      "specialDefense" : 85,
+      "speed" : 55
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/068.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ec1",
+    "pokemonID" : 71,
+    "name" : "victreebel",
+    "types" : [
+      "grass",
+      "poison"
+    ],
+    "stats" : {
+      "hp" : 80,
+      "attack" : 105,
+      "defense" : 65,
+      "specialAttack" : 100,
+      "specialDefense" : 70,
+      "speed" : 70
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/071.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ec2",
+    "pokemonID" : 70,
+    "name" : "weepinbell",
+    "types" : [
+      "grass",
+      "poison"
+    ],
+    "stats" : {
+      "hp" : 65,
+      "attack" : 90,
+      "defense" : 50,
+      "specialAttack" : 85,
+      "specialDefense" : 45,
+      "speed" : 55
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/070.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ec3",
+    "pokemonID" : 72,
+    "name" : "tentacool",
+    "types" : [
+      "water",
+      "poison"
+    ],
+    "stats" : {
+      "hp" : 40,
+      "attack" : 40,
+      "defense" : 35,
+      "specialAttack" : 50,
+      "specialDefense" : 100,
+      "speed" : 70
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/072.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ec4",
+    "pokemonID" : 76,
+    "name" : "golem",
+    "types" : [
+      "rock",
+      "ground"
+    ],
+    "stats" : {
+      "hp" : 80,
+      "attack" : 120,
+      "defense" : 130,
+      "specialAttack" : 55,
+      "specialDefense" : 65,
+      "speed" : 45
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/076.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ec5",
+    "pokemonID" : 74,
+    "name" : "geodude",
+    "types" : [
+      "rock",
+      "ground"
+    ],
+    "stats" : {
+      "hp" : 40,
+      "attack" : 80,
+      "defense" : 100,
+      "specialAttack" : 30,
+      "specialDefense" : 30,
+      "speed" : 20
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/074.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ec6",
+    "pokemonID" : 79,
+    "name" : "slowpoke",
+    "types" : [
+      "water",
+      "psychic"
+    ],
+    "stats" : {
+      "hp" : 90,
+      "attack" : 65,
+      "defense" : 65,
+      "specialAttack" : 40,
+      "specialDefense" : 40,
+      "speed" : 15
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/079.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ec7",
+    "pokemonID" : 77,
+    "name" : "ponyta",
+    "types" : [
+      "fire"
+    ],
+    "stats" : {
+      "hp" : 50,
+      "attack" : 85,
+      "defense" : 55,
+      "specialAttack" : 65,
+      "specialDefense" : 65,
+      "speed" : 90
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/077.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ec8",
+    "pokemonID" : 75,
+    "name" : "graveler",
+    "types" : [
+      "rock",
+      "ground"
+    ],
+    "stats" : {
+      "hp" : 55,
+      "attack" : 95,
+      "defense" : 115,
+      "specialAttack" : 45,
+      "specialDefense" : 45,
+      "speed" : 35
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/075.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ec9",
+    "pokemonID" : 78,
+    "name" : "rapidash",
+    "types" : [
+      "fire"
+    ],
+    "stats" : {
+      "hp" : 65,
+      "attack" : 100,
+      "defense" : 70,
+      "specialAttack" : 80,
+      "specialDefense" : 80,
+      "speed" : 105
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/078.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14eca",
+    "pokemonID" : 73,
+    "name" : "tentacruel",
+    "types" : [
+      "water",
+      "poison"
+    ],
+    "stats" : {
+      "hp" : 80,
+      "attack" : 70,
+      "defense" : 65,
+      "specialAttack" : 80,
+      "specialDefense" : 120,
+      "speed" : 100
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/073.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ecb",
+    "pokemonID" : 81,
+    "name" : "magnemite",
+    "types" : [
+      "electric",
+      "steel"
+    ],
+    "stats" : {
+      "hp" : 25,
+      "attack" : 35,
+      "defense" : 70,
+      "specialAttack" : 95,
+      "specialDefense" : 55,
+      "speed" : 45
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/081.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ecc",
+    "pokemonID" : 82,
+    "name" : "magneton",
+    "types" : [
+      "electric",
+      "steel"
+    ],
+    "stats" : {
+      "hp" : 50,
+      "attack" : 60,
+      "defense" : 95,
+      "specialAttack" : 120,
+      "specialDefense" : 70,
+      "speed" : 70
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/082.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ecd",
+    "pokemonID" : 80,
+    "name" : "slowbro",
+    "types" : [
+      "water",
+      "psychic"
+    ],
+    "stats" : {
+      "hp" : 95,
+      "attack" : 75,
+      "defense" : 110,
+      "specialAttack" : 100,
+      "specialDefense" : 80,
+      "speed" : 30
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/080.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ece",
+    "pokemonID" : 83,
+    "name" : "farfetchd",
+    "types" : [
+      "normal",
+      "flying"
+    ],
+    "stats" : {
+      "hp" : 52,
+      "attack" : 90,
+      "defense" : 55,
+      "specialAttack" : 58,
+      "specialDefense" : 62,
+      "speed" : 60
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/083.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ecf",
+    "pokemonID" : 88,
+    "name" : "grimer",
+    "types" : [
+      "poison"
+    ],
+    "stats" : {
+      "hp" : 80,
+      "attack" : 80,
+      "defense" : 50,
+      "specialAttack" : 40,
+      "specialDefense" : 50,
+      "speed" : 25
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/088.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ed0",
+    "pokemonID" : 84,
+    "name" : "doduo",
+    "types" : [
+      "normal",
+      "flying"
+    ],
+    "stats" : {
+      "hp" : 35,
+      "attack" : 85,
+      "defense" : 45,
+      "specialAttack" : 35,
+      "specialDefense" : 35,
+      "speed" : 75
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/084.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ed1",
+    "pokemonID" : 85,
+    "name" : "dodrio",
+    "types" : [
+      "normal",
+      "flying"
+    ],
+    "stats" : {
+      "hp" : 60,
+      "attack" : 110,
+      "defense" : 70,
+      "specialAttack" : 60,
+      "specialDefense" : 60,
+      "speed" : 110
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/085.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ed2",
+    "pokemonID" : 91,
+    "name" : "cloyster",
+    "types" : [
+      "water",
+      "ice"
+    ],
+    "stats" : {
+      "hp" : 50,
+      "attack" : 95,
+      "defense" : 180,
+      "specialAttack" : 85,
+      "specialDefense" : 45,
+      "speed" : 70
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/091.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ed3",
+    "pokemonID" : 87,
+    "name" : "dewgong",
+    "types" : [
+      "water",
+      "ice"
+    ],
+    "stats" : {
+      "hp" : 90,
+      "attack" : 70,
+      "defense" : 80,
+      "specialAttack" : 70,
+      "specialDefense" : 95,
+      "speed" : 70
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/087.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ed4",
+    "pokemonID" : 86,
+    "name" : "seel",
+    "types" : [
+      "water"
+    ],
+    "stats" : {
+      "hp" : 65,
+      "attack" : 45,
+      "defense" : 55,
+      "specialAttack" : 45,
+      "specialDefense" : 70,
+      "speed" : 45
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/086.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ed5",
+    "pokemonID" : 92,
+    "name" : "gastly",
+    "types" : [
+      "ghost",
+      "poison"
+    ],
+    "stats" : {
+      "hp" : 30,
+      "attack" : 35,
+      "defense" : 30,
+      "specialAttack" : 100,
+      "specialDefense" : 35,
+      "speed" : 80
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/092.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ed6",
+    "pokemonID" : 90,
+    "name" : "shellder",
+    "types" : [
+      "water"
+    ],
+    "stats" : {
+      "hp" : 30,
+      "attack" : 65,
+      "defense" : 100,
+      "specialAttack" : 45,
+      "specialDefense" : 25,
+      "speed" : 40
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/090.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ed7",
+    "pokemonID" : 89,
+    "name" : "muk",
+    "types" : [
+      "poison"
+    ],
+    "stats" : {
+      "hp" : 105,
+      "attack" : 105,
+      "defense" : 75,
+      "specialAttack" : 65,
+      "specialDefense" : 100,
+      "speed" : 50
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/089.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ed8",
+    "pokemonID" : 93,
+    "name" : "haunter",
+    "types" : [
+      "ghost",
+      "poison"
+    ],
+    "stats" : {
+      "hp" : 45,
+      "attack" : 50,
+      "defense" : 45,
+      "specialAttack" : 115,
+      "specialDefense" : 55,
+      "speed" : 95
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/093.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ed9",
+    "pokemonID" : 94,
+    "name" : "gengar",
+    "types" : [
+      "ghost",
+      "poison"
+    ],
+    "stats" : {
+      "hp" : 60,
+      "attack" : 65,
+      "defense" : 60,
+      "specialAttack" : 130,
+      "specialDefense" : 75,
+      "speed" : 110
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/094.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14eda",
+    "pokemonID" : 100,
+    "name" : "voltorb",
+    "types" : [
+      "electric"
+    ],
+    "stats" : {
+      "hp" : 40,
+      "attack" : 30,
+      "defense" : 50,
+      "specialAttack" : 55,
+      "specialDefense" : 55,
+      "speed" : 100
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/100.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14edb",
+    "pokemonID" : 97,
+    "name" : "hypno",
+    "types" : [
+      "psychic"
+    ],
+    "stats" : {
+      "hp" : 85,
+      "attack" : 73,
+      "defense" : 70,
+      "specialAttack" : 73,
+      "specialDefense" : 115,
+      "speed" : 67
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/097.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14edc",
+    "pokemonID" : 95,
+    "name" : "onix",
+    "types" : [
+      "rock",
+      "ground"
+    ],
+    "stats" : {
+      "hp" : 35,
+      "attack" : 45,
+      "defense" : 160,
+      "specialAttack" : 30,
+      "specialDefense" : 45,
+      "speed" : 70
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/095.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14edd",
+    "pokemonID" : 98,
+    "name" : "krabby",
+    "types" : [
+      "water"
+    ],
+    "stats" : {
+      "hp" : 30,
+      "attack" : 105,
+      "defense" : 90,
+      "specialAttack" : 25,
+      "specialDefense" : 25,
+      "speed" : 50
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/098.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ede",
+    "pokemonID" : 103,
+    "name" : "exeggutor",
+    "types" : [
+      "grass",
+      "psychic"
+    ],
+    "stats" : {
+      "hp" : 95,
+      "attack" : 95,
+      "defense" : 85,
+      "specialAttack" : 125,
+      "specialDefense" : 75,
+      "speed" : 55
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/103.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14edf",
+    "pokemonID" : 99,
+    "name" : "kingler",
+    "types" : [
+      "water"
+    ],
+    "stats" : {
+      "hp" : 55,
+      "attack" : 130,
+      "defense" : 115,
+      "specialAttack" : 50,
+      "specialDefense" : 50,
+      "speed" : 75
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/099.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ee0",
+    "pokemonID" : 101,
+    "name" : "electrode",
+    "types" : [
+      "electric"
+    ],
+    "stats" : {
+      "hp" : 60,
+      "attack" : 50,
+      "defense" : 70,
+      "specialAttack" : 80,
+      "specialDefense" : 80,
+      "speed" : 150
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/101.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ee1",
+    "pokemonID" : 96,
+    "name" : "drowzee",
+    "types" : [
+      "psychic"
+    ],
+    "stats" : {
+      "hp" : 60,
+      "attack" : 48,
+      "defense" : 45,
+      "specialAttack" : 43,
+      "specialDefense" : 90,
+      "speed" : 42
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/096.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ee2",
+    "pokemonID" : 104,
+    "name" : "cubone",
+    "types" : [
+      "ground"
+    ],
+    "stats" : {
+      "hp" : 50,
+      "attack" : 50,
+      "defense" : 95,
+      "specialAttack" : 40,
+      "specialDefense" : 50,
+      "speed" : 35
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/104.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ee3",
+    "pokemonID" : 105,
+    "name" : "marowak",
+    "types" : [
+      "ground"
+    ],
+    "stats" : {
+      "hp" : 60,
+      "attack" : 80,
+      "defense" : 110,
+      "specialAttack" : 50,
+      "specialDefense" : 80,
+      "speed" : 45
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/105.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ee4",
+    "pokemonID" : 102,
+    "name" : "exeggcute",
+    "types" : [
+      "grass",
+      "psychic"
+    ],
+    "stats" : {
+      "hp" : 60,
+      "attack" : 40,
+      "defense" : 80,
+      "specialAttack" : 60,
+      "specialDefense" : 45,
+      "speed" : 40
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/102.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ee5",
+    "pokemonID" : 106,
+    "name" : "hitmonlee",
+    "types" : [
+      "fighting"
+    ],
+    "stats" : {
+      "hp" : 50,
+      "attack" : 120,
+      "defense" : 53,
+      "specialAttack" : 35,
+      "specialDefense" : 110,
+      "speed" : 87
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/106.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ee6",
+    "pokemonID" : 107,
+    "name" : "hitmonchan",
+    "types" : [
+      "fighting"
+    ],
+    "stats" : {
+      "hp" : 50,
+      "attack" : 105,
+      "defense" : 79,
+      "specialAttack" : 35,
+      "specialDefense" : 110,
+      "speed" : 76
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/107.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ee7",
+    "pokemonID" : 108,
+    "name" : "lickitung",
+    "types" : [
+      "normal"
+    ],
+    "stats" : {
+      "hp" : 90,
+      "attack" : 55,
+      "defense" : 75,
+      "specialAttack" : 60,
+      "specialDefense" : 75,
+      "speed" : 30
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/108.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ee8",
+    "pokemonID" : 109,
+    "name" : "koffing",
+    "types" : [
+      "poison"
+    ],
+    "stats" : {
+      "hp" : 40,
+      "attack" : 65,
+      "defense" : 95,
+      "specialAttack" : 60,
+      "specialDefense" : 45,
+      "speed" : 35
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/109.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ee9",
+    "pokemonID" : 115,
+    "name" : "kangaskhan",
+    "types" : [
+      "normal"
+    ],
+    "stats" : {
+      "hp" : 105,
+      "attack" : 95,
+      "defense" : 80,
+      "specialAttack" : 40,
+      "specialDefense" : 80,
+      "speed" : 90
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/115.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14eea",
+    "pokemonID" : 113,
+    "name" : "chansey",
+    "types" : [
+      "normal"
+    ],
+    "stats" : {
+      "hp" : 250,
+      "attack" : 5,
+      "defense" : 5,
+      "specialAttack" : 35,
+      "specialDefense" : 105,
+      "speed" : 50
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/113.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14eeb",
+    "pokemonID" : 114,
+    "name" : "tangela",
+    "types" : [
+      "grass"
+    ],
+    "stats" : {
+      "hp" : 65,
+      "attack" : 55,
+      "defense" : 115,
+      "specialAttack" : 100,
+      "specialDefense" : 40,
+      "speed" : 60
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/114.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14eec",
+    "pokemonID" : 110,
+    "name" : "weezing",
+    "types" : [
+      "poison"
+    ],
+    "stats" : {
+      "hp" : 65,
+      "attack" : 90,
+      "defense" : 120,
+      "specialAttack" : 85,
+      "specialDefense" : 70,
+      "speed" : 60
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/110.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14eed",
+    "pokemonID" : 116,
+    "name" : "horsea",
+    "types" : [
+      "water"
+    ],
+    "stats" : {
+      "hp" : 30,
+      "attack" : 40,
+      "defense" : 70,
+      "specialAttack" : 70,
+      "specialDefense" : 25,
+      "speed" : 60
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/116.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14eee",
+    "pokemonID" : 111,
+    "name" : "rhyhorn",
+    "types" : [
+      "ground",
+      "rock"
+    ],
+    "stats" : {
+      "hp" : 80,
+      "attack" : 85,
+      "defense" : 95,
+      "specialAttack" : 30,
+      "specialDefense" : 30,
+      "speed" : 25
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/111.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14eef",
+    "pokemonID" : 112,
+    "name" : "rhydon",
+    "types" : [
+      "ground",
+      "rock"
+    ],
+    "stats" : {
+      "hp" : 105,
+      "attack" : 130,
+      "defense" : 120,
+      "specialAttack" : 45,
+      "specialDefense" : 45,
+      "speed" : 40
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/112.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ef0",
+    "pokemonID" : 117,
+    "name" : "seadra",
+    "types" : [
+      "water"
+    ],
+    "stats" : {
+      "hp" : 55,
+      "attack" : 65,
+      "defense" : 95,
+      "specialAttack" : 95,
+      "specialDefense" : 45,
+      "speed" : 85
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/117.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ef1",
+    "pokemonID" : 118,
+    "name" : "goldeen",
+    "types" : [
+      "water"
+    ],
+    "stats" : {
+      "hp" : 45,
+      "attack" : 67,
+      "defense" : 60,
+      "specialAttack" : 35,
+      "specialDefense" : 50,
+      "speed" : 63
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/118.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ef2",
+    "pokemonID" : 124,
+    "name" : "jynx",
+    "types" : [
+      "ice",
+      "psychic"
+    ],
+    "stats" : {
+      "hp" : 65,
+      "attack" : 50,
+      "defense" : 35,
+      "specialAttack" : 115,
+      "specialDefense" : 95,
+      "speed" : 95
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/124.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ef3",
+    "pokemonID" : 122,
+    "name" : "mr-mime",
+    "types" : [
+      "psychic",
+      "fairy"
+    ],
+    "stats" : {
+      "hp" : 40,
+      "attack" : 45,
+      "defense" : 65,
+      "specialAttack" : 100,
+      "specialDefense" : 120,
+      "speed" : 90
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/122.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ef4",
+    "pokemonID" : 121,
+    "name" : "starmie",
+    "types" : [
+      "water",
+      "psychic"
+    ],
+    "stats" : {
+      "hp" : 60,
+      "attack" : 75,
+      "defense" : 85,
+      "specialAttack" : 100,
+      "specialDefense" : 85,
+      "speed" : 115
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/121.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ef5",
+    "pokemonID" : 119,
+    "name" : "seaking",
+    "types" : [
+      "water"
+    ],
+    "stats" : {
+      "hp" : 80,
+      "attack" : 92,
+      "defense" : 65,
+      "specialAttack" : 65,
+      "specialDefense" : 80,
+      "speed" : 68
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/119.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ef6",
+    "pokemonID" : 128,
+    "name" : "tauros",
+    "types" : [
+      "normal"
+    ],
+    "stats" : {
+      "hp" : 75,
+      "attack" : 100,
+      "defense" : 95,
+      "specialAttack" : 40,
+      "specialDefense" : 70,
+      "speed" : 110
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/128.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ef7",
+    "pokemonID" : 123,
+    "name" : "scyther",
+    "types" : [
+      "bug",
+      "flying"
+    ],
+    "stats" : {
+      "hp" : 70,
+      "attack" : 110,
+      "defense" : 80,
+      "specialAttack" : 55,
+      "specialDefense" : 80,
+      "speed" : 105
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/123.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ef8",
+    "pokemonID" : 127,
+    "name" : "pinsir",
+    "types" : [
+      "bug"
+    ],
+    "stats" : {
+      "hp" : 65,
+      "attack" : 125,
+      "defense" : 100,
+      "specialAttack" : 55,
+      "specialDefense" : 70,
+      "speed" : 85
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/127.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14ef9",
+    "pokemonID" : 125,
+    "name" : "electabuzz",
+    "types" : [
+      "electric"
+    ],
+    "stats" : {
+      "hp" : 65,
+      "attack" : 83,
+      "defense" : 57,
+      "specialAttack" : 95,
+      "specialDefense" : 85,
+      "speed" : 105
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/125.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14efa",
+    "pokemonID" : 120,
+    "name" : "staryu",
+    "types" : [
+      "water"
+    ],
+    "stats" : {
+      "hp" : 30,
+      "attack" : 45,
+      "defense" : 55,
+      "specialAttack" : 70,
+      "specialDefense" : 55,
+      "speed" : 85
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/120.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14efb",
+    "pokemonID" : 126,
+    "name" : "magmar",
+    "types" : [
+      "fire"
+    ],
+    "stats" : {
+      "hp" : 65,
+      "attack" : 95,
+      "defense" : 57,
+      "specialAttack" : 100,
+      "specialDefense" : 85,
+      "speed" : 93
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/126.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14efc",
+    "pokemonID" : 130,
+    "name" : "gyarados",
+    "types" : [
+      "water",
+      "flying"
+    ],
+    "stats" : {
+      "hp" : 95,
+      "attack" : 125,
+      "defense" : 79,
+      "specialAttack" : 60,
+      "specialDefense" : 100,
+      "speed" : 81
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/130.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14efd",
+    "pokemonID" : 129,
+    "name" : "magikarp",
+    "types" : [
+      "water"
+    ],
+    "stats" : {
+      "hp" : 20,
+      "attack" : 10,
+      "defense" : 55,
+      "specialAttack" : 15,
+      "specialDefense" : 20,
+      "speed" : 80
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/129.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14efe",
+    "pokemonID" : 133,
+    "name" : "eevee",
+    "types" : [
+      "normal"
+    ],
+    "stats" : {
+      "hp" : 55,
+      "attack" : 55,
+      "defense" : 50,
+      "specialAttack" : 45,
+      "specialDefense" : 65,
+      "speed" : 55
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14eff",
+    "pokemonID" : 132,
+    "name" : "ditto",
+    "types" : [
+      "normal"
+    ],
+    "stats" : {
+      "hp" : 48,
+      "attack" : 48,
+      "defense" : 48,
+      "specialAttack" : 48,
+      "specialDefense" : 48,
+      "speed" : 48
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/132.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14f00",
+    "pokemonID" : 137,
+    "name" : "porygon",
+    "types" : [
+      "normal"
+    ],
+    "stats" : {
+      "hp" : 65,
+      "attack" : 60,
+      "defense" : 70,
+      "specialAttack" : 85,
+      "specialDefense" : 75,
+      "speed" : 40
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/137.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14f01",
+    "pokemonID" : 135,
+    "name" : "jolteon",
+    "types" : [
+      "electric"
+    ],
+    "stats" : {
+      "hp" : 65,
+      "attack" : 65,
+      "defense" : 60,
+      "specialAttack" : 110,
+      "specialDefense" : 95,
+      "speed" : 130
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/135.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14f02",
+    "pokemonID" : 134,
+    "name" : "vaporeon",
+    "types" : [
+      "water"
+    ],
+    "stats" : {
+      "hp" : 130,
+      "attack" : 65,
+      "defense" : 60,
+      "specialAttack" : 110,
+      "specialDefense" : 95,
+      "speed" : 65
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/134.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14f03",
+    "pokemonID" : 136,
+    "name" : "flareon",
+    "types" : [
+      "fire"
+    ],
+    "stats" : {
+      "hp" : 65,
+      "attack" : 130,
+      "defense" : 60,
+      "specialAttack" : 95,
+      "specialDefense" : 110,
+      "speed" : 65
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/136.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14f04",
+    "pokemonID" : 131,
+    "name" : "lapras",
+    "types" : [
+      "water",
+      "ice"
+    ],
+    "stats" : {
+      "hp" : 130,
+      "attack" : 85,
+      "defense" : 80,
+      "specialAttack" : 85,
+      "specialDefense" : 95,
+      "speed" : 60
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/131.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14f05",
+    "pokemonID" : 140,
+    "name" : "kabuto",
+    "types" : [
+      "rock",
+      "water"
+    ],
+    "stats" : {
+      "hp" : 30,
+      "attack" : 80,
+      "defense" : 90,
+      "specialAttack" : 55,
+      "specialDefense" : 45,
+      "speed" : 55
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/140.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14f06",
+    "pokemonID" : 141,
+    "name" : "kabutops",
+    "types" : [
+      "rock",
+      "water"
+    ],
+    "stats" : {
+      "hp" : 60,
+      "attack" : 115,
+      "defense" : 105,
+      "specialAttack" : 65,
+      "specialDefense" : 70,
+      "speed" : 80
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/141.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14f07",
+    "pokemonID" : 138,
+    "name" : "omanyte",
+    "types" : [
+      "rock",
+      "water"
+    ],
+    "stats" : {
+      "hp" : 35,
+      "attack" : 40,
+      "defense" : 100,
+      "specialAttack" : 90,
+      "specialDefense" : 55,
+      "speed" : 35
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/138.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14f08",
+    "pokemonID" : 142,
+    "name" : "aerodactyl",
+    "types" : [
+      "rock",
+      "flying"
+    ],
+    "stats" : {
+      "hp" : 80,
+      "attack" : 105,
+      "defense" : 65,
+      "specialAttack" : 60,
+      "specialDefense" : 75,
+      "speed" : 130
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/142.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14f09",
+    "pokemonID" : 139,
+    "name" : "omastar",
+    "types" : [
+      "rock",
+      "water"
+    ],
+    "stats" : {
+      "hp" : 70,
+      "attack" : 60,
+      "defense" : 125,
+      "specialAttack" : 115,
+      "specialDefense" : 70,
+      "speed" : 55
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/139.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14f0a",
+    "pokemonID" : 143,
+    "name" : "snorlax",
+    "types" : [
+      "normal"
+    ],
+    "stats" : {
+      "hp" : 160,
+      "attack" : 110,
+      "defense" : 65,
+      "specialAttack" : 65,
+      "specialDefense" : 110,
+      "speed" : 30
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/143.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14f0b",
+    "pokemonID" : 147,
+    "name" : "dratini",
+    "types" : [
+      "dragon"
+    ],
+    "stats" : {
+      "hp" : 41,
+      "attack" : 64,
+      "defense" : 45,
+      "specialAttack" : 50,
+      "specialDefense" : 50,
+      "speed" : 50
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/147.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14f0c",
+    "pokemonID" : 145,
+    "name" : "zapdos",
+    "types" : [
+      "electric",
+      "flying"
+    ],
+    "stats" : {
+      "hp" : 90,
+      "attack" : 90,
+      "defense" : 85,
+      "specialAttack" : 125,
+      "specialDefense" : 90,
+      "speed" : 100
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/145.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14f0d",
+    "pokemonID" : 149,
+    "name" : "dragonite",
+    "types" : [
+      "dragon",
+      "flying"
+    ],
+    "stats" : {
+      "hp" : 91,
+      "attack" : 134,
+      "defense" : 95,
+      "specialAttack" : 100,
+      "specialDefense" : 100,
+      "speed" : 80
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/149.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14f0e",
+    "pokemonID" : 144,
+    "name" : "articuno",
+    "types" : [
+      "ice",
+      "flying"
+    ],
+    "stats" : {
+      "hp" : 90,
+      "attack" : 85,
+      "defense" : 100,
+      "specialAttack" : 95,
+      "specialDefense" : 125,
+      "speed" : 85
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/144.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14f0f",
+    "pokemonID" : 148,
+    "name" : "dragonair",
+    "types" : [
+      "dragon"
+    ],
+    "stats" : {
+      "hp" : 61,
+      "attack" : 84,
+      "defense" : 65,
+      "specialAttack" : 70,
+      "specialDefense" : 70,
+      "speed" : 70
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/148.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14f10",
+    "pokemonID" : 151,
+    "name" : "mew",
+    "types" : [
+      "psychic"
+    ],
+    "stats" : {
+      "hp" : 100,
+      "attack" : 100,
+      "defense" : 100,
+      "specialAttack" : 100,
+      "specialDefense" : 100,
+      "speed" : 100
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/151.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14f11",
+    "pokemonID" : 150,
+    "name" : "mewtwo",
+    "types" : [
+      "psychic"
+    ],
+    "stats" : {
+      "hp" : 106,
+      "attack" : 110,
+      "defense" : 90,
+      "specialAttack" : 154,
+      "specialDefense" : 90,
+      "speed" : 130
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png"
+  },
+  {
+    "_id" : "60f0abedf11485a8dce14f12",
+    "pokemonID" : 146,
+    "name" : "moltres",
+    "types" : [
+      "fire",
+      "flying"
+    ],
+    "stats" : {
+      "hp" : 90,
+      "attack" : 100,
+      "defense" : 90,
+      "specialAttack" : 125,
+      "specialDefense" : 85,
+      "speed" : 90
+    },
+    "avatar" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/146.png"
+  }
+]
