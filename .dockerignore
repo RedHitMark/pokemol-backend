@@ -1,0 +1,7 @@
+.git
+Dockerfile*
+*.png
+*.md
+node_modules
+.idea
+.env
