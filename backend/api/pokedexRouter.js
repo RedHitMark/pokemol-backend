@@ -7,13 +7,13 @@ const pokedexRouter = express.Router();
 
 pokedexRouter
     .get("/", (req, res) => {
-        const payload_id = req.query.payload_id;
+        const pokemonID = req.query.pokemonID;
 
-        if (payload_id) {
-            pokemonModel.readOneById(payload_id)
-                .then((payload) => {
-                    if (payload) {
-                        res.json(payload);
+        if (pokemonID) {
+            pokemonModel.readOneById(pokemonID)
+                .then((pokemon) => {
+                    if (pokemon) {
+                        res.json(pokemon);
                     } else {
                         res.status(404).json({error: "pokemon not found"});
                     }
@@ -23,8 +23,8 @@ pokedexRouter
                 });
         } else {
             pokemonModel.readAll()
-                .then((payloads) => {
-                    res.json(payloads);
+                .then((pokemons) => {
+                    res.json(pokemons);
                 })
                 .catch((error) => {
                     res.status(500).json({error: error});
