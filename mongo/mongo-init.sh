@@ -1,0 +1,1 @@
+mongoimport --db $MONGO_INITDB_DATABASE --collection pokemons --drop --type json --file /docker-entrypoint-initdb.d/dump.json --jsonArray

@@ -1,7 +1,13 @@
 .git
+.github
 Dockerfile*
 *.png
 *.md
 node_modules
 .idea
+.dockerignore
 .env
+.gitignore
+docker-compose.yml
+LICENSE
+
