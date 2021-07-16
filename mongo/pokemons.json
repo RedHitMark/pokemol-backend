@@ -2786,7 +2786,7 @@
   },
   {
     "_id" : "60f0abedf11485a8dce14f30",
-    "pokemonID" : 252,
+    "pokemonID" : 152,
     "name" : "FauFas",
     "types" : [
       "appezzotto",
@@ -2801,6 +2801,8 @@
       "specialDefense" : 500,
       "speed" : 500
     },
-    "avatar" : "http://docenti.unimol.it/foto/faustofasano.png"
+    "avatar" : "http://docenti.unimol.it/foto/faustofasano.png",
+    "description": "Appezzottatore seriale"
+
   }
 ]
