@@ -2,7 +2,7 @@ const pokemonModel = require('../mongo').models.pokemon;
 
 
 async function readAll() {
-    return pokemonModel.find({}, { '_id': false}).lean().exec();
+    return pokemonModel.find({}, { '_id': false}).sort({ pokemonID:1 }).lean().exec();
 }
 async function readOneByPokemonId(pokemonId) {
     return pokemonModel.findOne({pokemonID: {$eq: pokemonId}}, { '_id': false}).lean().exec();
