@@ -1,14 +1,19 @@
 const express = require('express');
+const teamModel = require('../database/models/team');
 
 
 const dashboardRouter = express.Router();
 
 
 dashboardRouter
-    .get("/", (req, res) => {
-        res.json({
-            server : "Server is running fine",
-        })
+    .get("/teams", (req, res) => {
+        teamModel.readAll()
+            .then((teams) => {
+                res.json(teams);
+            })
+            .catch((error) => {
+                res.status(500).json({error: error});
+            });
     });
 
 

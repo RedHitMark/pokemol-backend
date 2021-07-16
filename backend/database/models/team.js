@@ -1,27 +1,23 @@
 const teamModel = require('../mongo').models.team;
 
-async function create(data) {
-    let newPayload = new teamModel(data);
-    return newPayload.save();
-}
-async function readOneById(payload_id) {
-    return teamModel.findById(payload_id).lean().exec();
-}
+
 async function readAll(data) {
     return teamModel.find(data).lean().exec();
 }
-async function deleteOne(payload_id) {
-    return teamModel.deleteOne({_id: payload_id}).lean().exec();
+async function readByTeamName(teamName) {
+    return teamModel.findOne({name:teamName}).lean().exec();
 }
-async function updateOne(payload_id, update_payload) {
-    return teamModel.updateOne({ _id: payload_id }, { $set: update_payload}).lean().exec();
+async function readByTeamNameAndSubmissionId(teamName, submissionID) {
+    return teamModel.findOne({name:teamName, submissionID: submissionID}).lean().exec();
+}
+async function update(teamID, newTeam) {
+    return teamModel.updateOne({ _id: teamID }, { $set: newTeam}).lean().exec();
 }
 
 
 module.exports = {
-    create,
     readAll,
-    readOneById,
-    deleteOne,
-    updateOne
+    readByTeamName,
+    readByTeamNameAndSubmissionId,
+    update
 };

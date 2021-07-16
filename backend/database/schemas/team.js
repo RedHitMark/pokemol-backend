@@ -11,7 +11,7 @@ const TeamSchema = new Mongoose.Schema({
     totalScore: {type: Number, required: true},
     captures: [ {
         timestamp: { type: Number, required: true, default: () => { return new Date().getTime() } },
-        pokemonID: { type: Number, required: true },
+        pokemon: { type: Object, required: true },
         score: { type: Number, required: true }
     } ]
 });

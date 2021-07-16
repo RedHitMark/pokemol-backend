@@ -10,7 +10,7 @@ pokedexRouter
         const pokemonID = req.query.pokemonID;
 
         if (pokemonID) {
-            pokemonModel.readOneById(pokemonID)
+            pokemonModel.readOneByPokemonId(pokemonID)
                 .then((pokemon) => {
                     if (pokemon) {
                         res.json(pokemon);
