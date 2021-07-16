@@ -11,7 +11,7 @@ const authSource = "admin"
 let connectionString = 'mongodb://' +
     username + ':' +
     password + '@' +
-    host + '/' +
+    host + ':' + port + '/' +
     dbname + '?authSource=' +
     authSource;
 
