@@ -2,7 +2,7 @@ const teamModel = require('../mongo').models.team;
 
 
 async function readAll(data) {
-    return teamModel.find(data).sort({ name:1 }).lean().exec();
+    return teamModel.find(data).sort({ name:0 }).lean().exec();
 }
 async function readByTeamName(teamName) {
     return teamModel.findOne({name:teamName}).lean().exec();
