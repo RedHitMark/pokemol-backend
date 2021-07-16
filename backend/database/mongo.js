@@ -2,7 +2,7 @@ const Mongoose = require('mongoose');
 
 const username = process.env.MONGO_USER || "";
 const password = process.env.MONGO_PASSWORD || "";
-const host = process.env.MONGO_HOST || "mongo";
+const host = process.env.MONGO_HOST || "mongo-db";
 const port = process.env.MONGO_PORT || 27017;
 const dbname = process.env.MONGO_DATABASE || "db";
 const authSource = "admin"

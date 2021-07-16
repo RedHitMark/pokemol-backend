@@ -12,12 +12,12 @@ services:
     expose:
       - "${SERVER_PORT}"
     depends_on:
-      - mongo
+      - mongo-db
     links:
-      - mongo
+      - mongo-db
 
   # MongoDB
-  mongo:
+  mongo-db:
     container_name: pokemol-mongo
     image: mongo:latest
     restart: always
